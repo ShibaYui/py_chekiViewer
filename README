@@ -1,0 +1,25 @@
+##	Filename: README
+##	Author: yu1
+##	Date: 2024-12-08 14:16:34 +0800
+##  
+
+
+Make cheki-previewer in python code
+
+#2024-12-08 14:22:09 +0800
+	FILE STRUCTURE
+		./
+		├── demo
+		│   ├── ascii_demo.py
+		│   ├── demo.jpg
+		│   ├── openCV_demo.py
+		│   └── YahaUsagi.webp
+		└── README
+		
+	add demo (openCV_demo.py)
+		before import openCV, using command:
+			apt install opencv-python
+
+	add demo (ascii_demo.py)
+		it can do nothing
+		just for fun
